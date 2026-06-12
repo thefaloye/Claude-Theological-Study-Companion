@@ -1,6 +1,6 @@
 # Theological Study Companion
 
-**A Reformed, confessionally-grounded skill for [Claude](https://claude.ai) — built for pastors, seminarians, and serious students of Scripture.**
+**A Reformed, confessional skill for [Claude](https://claude.ai) — built for pastors, seminarians, and serious students of Scripture.**
 
 This skill turns Claude into a structured Bible study assistant that operates from a **grammatical-historical hermeneutic** integrated with **redemptive-historical / biblical theology**, anchored to the **1689 London Baptist Confession of Faith** (with the Westminster Confession as a secondary standard), and grounded in historically-tested lexicons, dictionaries, and theologians from the patristic era to the present.
 
@@ -10,7 +10,7 @@ It is built for exegesis, word studies, biblical theology, systematic theology, 
 
 ## Why This Exists
 
-General-purpose AI models tend to flatten theological nuance — blending Reformed, charismatic, liberal, and New Age frameworks indiscriminately, often without the user noticing. This skill exists to give pastors and students a **theologically honest, confessionally consistent** companion: one that tells you when something is contested, recommends a position rooted in the 1689 LBCF, and never quietly imports frameworks that conflict with Reformed orthodoxy.
+General-purpose AI models tend to flatten theological nuance, blending Reformed, charismatic, liberal, and New Age frameworks indiscriminately, often without the user noticing. This skill exists to offer pastors and students a **theologically honest, confessionally consistent** companion: one that tells you when something is contested, recommends a position rooted in the 1689 LBCF, and never quietly imports frameworks that conflict with Reformed orthodoxy.
 
 ---
 
@@ -118,4 +118,4 @@ This repository is licensed under the [MIT License](LICENSE). Scripture quotatio
 
 ## Acknowledgments
 
-Built by [thefaloye.com](https://thefaloye.com) under the **Trowel & Sword / RH Publishing Services** imprint, for use by pastors, seminarians, and Reformed Baptist churches engaged in serious Bible study.
+Built by [thefaloye.com](https://thefaloye.com) for use by pastors, seminarians, and Reformed churches engaged in serious Bible study.
